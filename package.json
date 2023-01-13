@@ -1,6 +1,6 @@
 {
   "name": "study-helper",
-  "homepage":"https://ghockin.github.io/tasks",
+  "homepage":"https://ghockin.github.io/study-helper/tasks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

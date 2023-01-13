@@ -8,7 +8,7 @@ and record when their exams are.<br />
 
 You can access via the project via the link below<br />
 
-https://ghockin.github.io/tasks<br />
+https://ghockin.github.io/study-helper/<br />
 
 ### Project Details
 
