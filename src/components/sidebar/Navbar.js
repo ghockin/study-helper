@@ -28,8 +28,8 @@ function Navbar() {
             <li className="nav-text"><p>Student Name</p></li>
             <li className="nav-text"><p>Student Email</p></li>
             <hr className='SidebarHR'></hr>
-            <li className='nav-text'><Link to='/tasks'>Tasks</Link></li>
-            <li className='nav-text'><Link to='/exams'>Exams</Link></li>
+            <li className='nav-text'><Link to='/study-helper/tasks'>Tasks</Link></li>
+            <li className='nav-text'><Link to='/study-helper/exams'>Exams</Link></li>
             <li className='nav-text'><a target="rel=noopener" href="https://sts.solent.ac.uk/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2ftimetable.solent.ac.uk%2fcmisgo&wctx=rm%3d0%26id%3dpassive%26ru%3d%252fCMISGo%252fWeb%252fTimetable&wct=2023-01-13T02%3a25%3a40Z">Timetable</a></li>
             <li className='nav-text'><a target="rel=noopener" href="https://students.solent.ac.uk/">Portal</a></li>
           </ul>

@@ -13,9 +13,9 @@ function App() {
         <Header />
         <Navbar />
         <Routes>
-          <Route path="/" element={<Tasks></Tasks>}></Route>
-          <Route path="/tasks" element={<Tasks></Tasks>}></Route>
-          <Route path="/exams" element={<Exams></Exams>}></Route>
+          <Route path="/study-helper" element={<Tasks></Tasks>}></Route>
+          <Route path="/study-helper/tasks" element={<Tasks></Tasks>}></Route>
+          <Route path="/study-helper/exams" element={<Exams></Exams>}></Route>
         </Routes>
         <FooterContainer />
       </Router>
