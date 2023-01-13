@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/study-helper/static/css/main.365e5829.css",
-    "main.js": "/study-helper/static/js/main.ee2ffe5c.js",
+    "main.js": "/study-helper/static/js/main.b895d363.js",
     "static/media/logo-solent.png": "/study-helper/static/media/logo-solent.f4a2a10c09a70af253c3.png",
     "index.html": "/study-helper/index.html",
     "main.365e5829.css.map": "/study-helper/static/css/main.365e5829.css.map",
-    "main.ee2ffe5c.js.map": "/study-helper/static/js/main.ee2ffe5c.js.map"
+    "main.b895d363.js.map": "/study-helper/static/js/main.b895d363.js.map"
   },
   "entrypoints": [
     "static/css/main.365e5829.css",
-    "static/js/main.ee2ffe5c.js"
+    "static/js/main.b895d363.js"
   ]
 }
