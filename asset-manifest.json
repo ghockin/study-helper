@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/study-helper/tasks/static/css/main.365e5829.css",
-    "main.js": "/study-helper/tasks/static/js/main.b0e46235.js",
-    "static/media/logo-solent.png": "/study-helper/tasks/static/media/logo-solent.f4a2a10c09a70af253c3.png",
-    "index.html": "/study-helper/tasks/index.html",
-    "main.365e5829.css.map": "/study-helper/tasks/static/css/main.365e5829.css.map",
-    "main.b0e46235.js.map": "/study-helper/tasks/static/js/main.b0e46235.js.map"
+    "main.css": "/study-helper/static/css/main.365e5829.css",
+    "main.js": "/study-helper/static/js/main.ee2ffe5c.js",
+    "static/media/logo-solent.png": "/study-helper/static/media/logo-solent.f4a2a10c09a70af253c3.png",
+    "index.html": "/study-helper/index.html",
+    "main.365e5829.css.map": "/study-helper/static/css/main.365e5829.css.map",
+    "main.ee2ffe5c.js.map": "/study-helper/static/js/main.ee2ffe5c.js.map"
   },
   "entrypoints": [
     "static/css/main.365e5829.css",
-    "static/js/main.b0e46235.js"
+    "static/js/main.ee2ffe5c.js"
   ]
 }
